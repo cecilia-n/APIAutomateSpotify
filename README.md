@@ -11,7 +11,7 @@ __Long-term Lessons Learned__:
 
 -Create similar 'projects' in own version demonstrating the over-arching concept
 
--You can import functions of another python file to the current one (Breaking Code apart in Sections Easier easier Comprensibility esp in Github)
+-You can import functions of another python file to the current one (Breaking Code apart in Sections easier Comprensibility esp in Github)
 
 -DEBUG, DEBUG, DEBUG (print statements, different parameters, test cases, etc.)
 

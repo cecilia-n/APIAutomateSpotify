@@ -3,10 +3,9 @@ This is a learning project to understand the RESTFUL API architecture and how to
 
 
 
-Long-term Lessons Learned:
+__Long-term Lessons Learned__:
 
 -Always Read Documentation
-
 -Find out which basic foundational knowledge is needed before starting and understand (Google Well)
 
 -Create similar 'projects' in own version demonstrating the over-arching concept

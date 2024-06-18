@@ -14,4 +14,5 @@ __Long-term Lessons Learned__:
 -You can import functions of another python file to the current one (Breaking Code apart in Sections easier Comprensibility esp in Github)
 
 -DEBUG, DEBUG, DEBUG (print statements, different parameters, test cases, etc.)
+-Use Simplified/Default Example Then Build-Up from it
 
